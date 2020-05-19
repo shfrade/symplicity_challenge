@@ -28,7 +28,7 @@ Consider a scenario where you are building an application where other developers
 - Better display of container for all pages. 
 - Product details show category name.
 - Category details show products count.
-- Alert displays for each action in product and category
+- Alert message for each action in product and category
 
 
 ---
